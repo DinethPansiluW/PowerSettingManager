@@ -81,17 +81,6 @@ Manage all installed Windows power schemes.
 
 ---
 
-## 🤝 Contributing
-
-Contributions, feature requests, and bug reports are welcome!
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AwesomeFeature`)
-3. Commit your Changes (`git commit -m 'Add some AwesomeFeature'`)
-4. Push to the Branch (`git push origin feature/AwesomeFeature`)
-5. Open a Pull Request
-
----
-
 ## 📄 License
 
 Distributed under the MIT License. See `LICENSE` for more information.
